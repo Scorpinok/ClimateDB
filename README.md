@@ -18,13 +18,13 @@
 <br>
 <b> 2. Описание скриптов:</b>
 <ul>
-- Создание базы данных: Creation_Climate_DB.sql 
-- Наполнение сгенерированными данными: Data_for_DB.sql  
-- Выборки: Selects.sql
-- Представления: Views.sql 
-- Триггеры и процедуры: Triggers&proc.sql 
-- Таблица логов: logs.sql 
- </ul>
+<li> Создание базы данных: Creation_Climate_DB.sql 
+<li> Наполнение сгенерированными данными: Data_for_DB.sql  
+<li> Выборки: Selects.sql
+<li> Представления: Views.sql 
+<li> Триггеры и процедуры: Triggers&proc.sql 
+<li> Таблица логов: logs.sql 
+</ul>
 
 
  
